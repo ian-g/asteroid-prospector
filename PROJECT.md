@@ -1,3 +1,5 @@
+[Our Video](http://youtu.be/febl7ETg8I0)
+
 ![Screenshot](http://killfall.github.io/asteroid-prospector/webimages/screen061.png)
 
 ### **The Game**
